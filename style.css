@@ -1,0 +1,43 @@
+
+.a {
+    text-align: center;
+    background-color: aqua;
+}
+nav {
+   
+    text-decoration: none;
+    text-align: center;
+    border-radius: 10px;
+}
+nav a{
+    margin:10px;
+    font-size: 20px;
+    color:red;
+    text-decoration: none;
+    border-radius:10px;
+    border: 2px solid yellow;
+}
+p {
+    font-size:18px;
+    color:black;
+    background-color:sandybrown ;
+    font-family:  sans-serif;
+    border-radius: 10px;
+    border:3px solid green ;
+    }
+    body {
+        background-color: aqua;
+    }
+    img {
+        border-radius: 10px;
+        border: 3px solid red;
+
+    }
+    footer {
+        border-radius: 10px;
+        border: 3px  solid blueviolet;
+        text-align: center;
+    }
+    h1{
+        text-align: center;
+    }
